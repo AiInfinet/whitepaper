@@ -13,3 +13,4 @@ By surmounting challenges such as scarce training data, prohibitive computationa
 - **Email:** [team@aiinfinet.com](mailto:team@aiinfinet.com)
 - **X:** [@AiInfinet](https://twitter.com/AiInfinet)
 - **Telegram:** [https://t.me/AIInfinet](https://t.me/AIInfinet)
+- **White Paper:** [Revolutionizing AI with Blockchain](https://github.com/AiInfinet/whitepaper/blob/main/AI_Infinet_whitepaper.pdf)
